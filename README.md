@@ -2,7 +2,7 @@
 ## Files for "Reflections on 75 Momentous Years of *Systematic Biology*"
 
 Organization:
-- `syst_biol_analysis.ipynb` is a Jupyter Notebook that contains the code used to generate all figures in the paper
+- `syst_biol_analysis.ipynb` is a Jupyter Notebook with Python code for generating all results in the main text and supplement
 - `data/` contains our enhanced dataset and the original dataset from Oxford
 - `output/` contains spreadsheets from the topic modeling analysis
 - `plot/` contains figures
