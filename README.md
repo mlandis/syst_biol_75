@@ -1,7 +1,7 @@
 
-## Files for "Reflections on 75 Momentous Years of *Systematic Biology*"
+## Files for "75 Years of Systematic Biology: Looking Back, Moving Forward"
 
-Based on the shared ideas of Michael Landis and Michael Donoghue
+Based on the shared ideas of [Michael Landis](michael.landis@wustl.edu) and [Michael Donoghue](michael.donoghue@yale.edu).
 
 Organization:
 - `syst_biol_analysis.ipynb` is a Jupyter Notebook with Python code for generating all results in the main text and supplement
@@ -9,4 +9,3 @@ Organization:
 - `output/` contains spreadsheets from the topic modeling analysis
 - `plot/` contains figures
 
-Contact michael.landis@wustl.edu with questions/comments
